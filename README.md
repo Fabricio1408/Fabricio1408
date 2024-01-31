@@ -1,4 +1,4 @@
-![GiF](/fabricio.gif)
+![GiF](./fabricio.gif)
 # 💫 Sobre mim:
 Meu nome  é Fabricio, tenho 24 anos e sou um aspirante ao desenvolvimento frontend. Atualmente, estou me formando em duas faculdades, em Análise e Desenvolvimento de Sistemas pelo IFRN e em Ciência de Dados pela Uninassau.  Empenhado em aprender e crescer na área de programação, estou animado para compartilhar meu progresso e projetos aqui na plataforma.
 
