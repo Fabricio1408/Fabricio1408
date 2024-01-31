@@ -1,4 +1,4 @@
-![Texto Alternativo](https://uploaddeimagens.com.br/images/004/727/529/thumb/imagemredondo_%281%29.png?1706674350)
+![GiF](https://miro.medium.com/v2/resize:fit:440/1*_pRsePRha-TYvmi4k2Yxvg.gif)
 # 💫 Sobre mim:
 Meu nome  é Fabricio, tenho 24 anos e sou um aspirante ao desenvolvimento frontend. Atualmente, estou me formando em duas faculdades, em Análise e Desenvolvimento de Sistemas pelo IFRN e em Ciência de Dados pela Uninassau.  Empenhado em aprender e crescer na área de programação, estou animado para compartilhar meu progresso e projetos aqui na plataforma.
 
@@ -12,6 +12,7 @@ Meu nome  é Fabricio, tenho 24 anos e sou um aspirante ao desenvolvimento front
 ![](https://github-readme-stats.vercel.app/api?username=Fabricio1408&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio1408&theme=blue-green&hide_border=false)
 
+![GiF]([https://miro.medium.com/v2/resize:fit:440/1*_pRsePRha-TYvmi4k2Yxvg.gif](https://i.pinimg.com/originals/c9/91/d2/c991d2874a3dbe2bd6d8837b1c209223.gif)https://i.pinimg.com/originals/c9/91/d2/c991d2874a3dbe2bd6d8837b1c209223.gif)
 
 
 
