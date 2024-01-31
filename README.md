@@ -12,7 +12,7 @@ Meu nome  é Fabricio, tenho 24 anos e sou um aspirante ao desenvolvimento front
 ![](https://github-readme-stats.vercel.app/api?username=Fabricio1408&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Fabricio1408&theme=blue-green&hide_border=false)
 
-![GiF]([https://miro.medium.com/v2/resize:fit:440/1*_pRsePRha-TYvmi4k2Yxvg.gif](https://i.pinimg.com/originals/c9/91/d2/c991d2874a3dbe2bd6d8837b1c209223.gif)https://i.pinimg.com/originals/c9/91/d2/c991d2874a3dbe2bd6d8837b1c209223.gif)
+
 
 
 
