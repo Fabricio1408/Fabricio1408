@@ -13,4 +13,3 @@ Meu nome  é Fabricio, tenho 24 anos e sou um aspirante ao desenvolvimento front
 ## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fabricio_ribeiro22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/fabricio-da-silva-ribeiro-8b5a12206) 
 
-[![fabricioi.gif](https://i.postimg.cc/Qx39C5Kj/fabricioi.gif)](https://postimg.cc/7bKYQ5NR)
